@@ -5,7 +5,8 @@ This repo consists of programming homeworks finished in [**CVXPY**](https://www.
 
 Some useful links:
 - [EE364a](https://web.stanford.edu/class/ee364a/index.html): convex optimization course in Stanford, also instructed by Stephen Boyd.
-- [EE364b](https://web.stanford.edu/class/ee364b/): next course of EE364a.
+  - [Lecture slides](https://web.stanford.edu/class/ee364a/lectures.html)
+  - [Homework](https://web.stanford.edu/class/ee364a/homework.html)
+- [EE364b](https://web.stanford.edu/class/ee364b/): convex optimization II.
 - [CVXPY](https://www.cvxpy.org/index.html): python-embedded package for solving cvx problems.
-- [Convex Optimization](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf): textbook, and its [solutions manual](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf).
-- [Lecture Slides](https://web.stanford.edu/class/ee364a/lectures.html)
+- [Textbook](https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) and its [solutions manual](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf).
